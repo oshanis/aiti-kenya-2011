@@ -1,0 +1,1 @@
+This is to collaborate on the AITI Kenya curriculum development, and to work on a project using Django and GAE.
